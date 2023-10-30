@@ -1,0 +1,2 @@
+import{j as s,a as e,g as t}from"./assets/index-25a0d8c7.js";import{M as o}from"./d10bf97b.js";const r=()=>s.jsx(o,{title:"Terms of Use",description:"Holy Unblocker's terms of use."}),i=()=>s.jsxs(s.Fragment,{children:[s.jsx(r,{}),s.jsxs("main",{children:[s.jsx("h1",{children:"Terms of Use"}),s.jsx("h2",{children:"Contact Information"}),s.jsxs("p",{children:["If you have any questions about our Terms of Use, please"," ",s.jsx(e,{to:t("contact").path,children:"Contact Us"}),"."]})]})]});export{i as default};
+//# sourceMappingURL=2512801c.js.map

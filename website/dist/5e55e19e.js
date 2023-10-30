@@ -1,0 +1,2 @@
+import{u as n,j as t,T as o,a as e,g as a}from"./assets/index-25a0d8c7.js";import{M as r}from"./d10bf97b.js";const i=()=>t.jsx(r,{title:"Not Found",description:"Page not found."}),d=()=>{const{t:s}=n("notFound");return t.jsxs(t.Fragment,{children:[t.jsx(i,{}),t.jsxs("main",{children:[t.jsx("h1",{children:s("title")}),t.jsx("hr",{}),t.jsxs("p",{children:[s("suggestion"),t.jsx("br",{}),t.jsx(o,{ns:"notFound",i18nKey:"contactUs",components:[t.jsx(e,{to:a("contact").path})]})]})]})]})};export{d as default};
+//# sourceMappingURL=5e55e19e.js.map

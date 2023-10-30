@@ -1,0 +1,2 @@
+import{u as e,j as t,r as s}from"./assets/index-25a0d8c7.js";import{M as o}from"./d10bf97b.js";import{C as a}from"./b6c7808d.js";import"./1ed2eb02.js";import"./d3d01167.js";import"./48344293.js";import"./873f084d.js";import"./e676146e.js";const i=()=>t.jsx(o,{title:"Apps",description:"Find apps on Holy Unblocker."}),u=r=>{const{t:p}=e("theatre");return t.jsxs(t.Fragment,{children:[t.jsx(i,{}),s.createElement(a,{...r,name:p("apps"),key:"apps",category:"app",placeholder:p("searchByApp")})]})};export{u as default};
+//# sourceMappingURL=579590c7.js.map

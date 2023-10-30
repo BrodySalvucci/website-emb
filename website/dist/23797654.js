@@ -1,0 +1,2 @@
+import{u as r,j as t,E as s}from"./assets/index-25a0d8c7.js";import{M as m}from"./d10bf97b.js";import{C as i}from"./b6c7808d.js";import"./1ed2eb02.js";import"./d3d01167.js";import"./48344293.js";import"./873f084d.js";import"./e676146e.js";const l=()=>t.jsx(m,{title:"Games",description:"Find games on Holy Unblocker."}),h=a=>{const{t:e}=r("theatre");return t.jsxs(t.Fragment,{children:[t.jsx(l,{}),t.jsx(i,{name:e("allGames"),showCategory:!0,category:s.map(o=>o.id).join(","),placeholder:e("searchByGame"),...a},"all")]})};export{h as default};
+//# sourceMappingURL=23797654.js.map

@@ -1,0 +1,2 @@
+import{j as s,a as t,g as a}from"./assets/index-25a0d8c7.js";import{M as i}from"./d10bf97b.js";const c=()=>s.jsx(i,{title:"Privacy Policy",description:"Holy Unblocker's privacy policy."}),e=()=>s.jsxs(s.Fragment,{children:[s.jsx(c,{}),s.jsxs("main",{children:[s.jsx("h1",{children:"Privacy Policy"}),s.jsx("h2",{children:"Contact Us"}),s.jsxs("p",{children:["If you have any questions about our Privacy Policy, please"," ",s.jsx(t,{to:a("contact").path,children:"Contact Us"}),"."]})]})]});export{e as default};
+//# sourceMappingURL=67ec900e.js.map
