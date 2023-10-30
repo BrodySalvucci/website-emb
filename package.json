@@ -1,13 +1,13 @@
 {
 	"name": "website",
-	"version": "1.0.0-holy.6",
+	"version": "1.0.0",
 	"description": "website-fork-aio build",
 	"main": "lib/index.js",
 	"type": "module",
 	"license": "GPLv3",
 	"repository": {
 		"type": "git",
-		"url": "https://git.holy.how/holy/website-fork-aio.git"
+		"url": "https://github.com/BrodySalvucci/website-emb.git"
 	},
 	"files": [
 		"lib",

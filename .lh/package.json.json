@@ -1,0 +1,22 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1698626626701,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1698626637451,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,7 @@\n {\n \t\"name\": \"website\",\n-\t\"version\": \"1.0.0-holy.6\",\n+\t\"version\": \"1.0.0\",\n \t\"description\": \"website-fork-aio build\",\n \t\"main\": \"lib/index.js\",\n \t\"type\": \"module\",\n \t\"license\": \"GPLv3\",\n"
+                }
+            ],
+            "date": 1698626626701,
+            "name": "Commit-0",
+            "content": "{\n\t\"name\": \"website\",\n\t\"version\": \"1.0.0-holy.6\",\n\t\"description\": \"website-fork-aio build\",\n\t\"main\": \"lib/index.js\",\n\t\"type\": \"module\",\n\t\"license\": \"GPLv3\",\n\t\"repository\": {\n\t\t\"type\": \"git\",\n\t\t\"url\": \"https://github.com/BrodySalvucci/website-emb.git\"\n\t},\n\t\"files\": [\n\t\t\"lib\",\n\t\t\"dist\"\n\t]\n}\n"
+        }
+    ]
+}
