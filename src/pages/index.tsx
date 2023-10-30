@@ -66,6 +66,12 @@ const Home: HolyPage = ({ layout, mainLayout }) => {
 					</ThemeButton>
 					<ProxyOmnibox className={styles.omnibox} layout={layout} />
 				</div>
+				<div>
+					<br></br>
+					<ThemeButton>⚠️ The website is actively being worked on and may not work as expected. ⚠️</ThemeButton>
+				
+				</div>
+				
 			</main>
 		</>
 	);

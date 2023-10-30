@@ -8,9 +8,12 @@
 
 # testing
 /coverage
+/.lh
+
 
 # production
 /package/dist
+package*.tgz
 
 # misc
 .DS_Store
