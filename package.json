@@ -6,7 +6,7 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/holy-unblocker/website-embedded.git"
+		"url": "https://github.com/BrodySalvucci/website-emb.git"
 	},
 	"dependencies": {
 		"@emotion/react": "^11.11.1",
